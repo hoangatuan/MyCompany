@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MyCompany/Pods-MyCompany-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Braintree/Braintree.framework
+${BUILT_PRODUCTS_DIR}/PushNotifications/PushNotifications.framework
+${BUILT_PRODUCTS_DIR}/PusherSwift/PusherSwift.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework

@@ -1,0 +1,17 @@
+{
+    "_id": "5f94efd70385dc8d18906824",
+    "fullname" : "Hoàng Anh Tuấn",
+    "account": "TuanHA24",
+    "dob" : "27-Dec-1998",
+    "gender" : "Male",
+    "address" : "Số 19, Phố Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+    "telephone" : "0765876320",
+    "email": "tuanha24@fsoft.com.vn",
+    "department" : "FSO.HL.GST.SYN.APL",
+    "jobFamily" : "DEV",
+    "nationalID" : "001098003747",
+    "jobRank" : "DEV02",
+    "contractStartDate" : "01-Jul-2020",
+    "contractEndDate" : "30-Jul-2021",
+    "avatarImageURL" : ""
+}

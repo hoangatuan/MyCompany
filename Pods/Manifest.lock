@@ -1,0 +1,53 @@
+PODS:
+  - Braintree (4.36.1):
+    - Braintree/Card (= 4.36.1)
+    - Braintree/Core (= 4.36.1)
+    - Braintree/PayPal (= 4.36.1)
+    - Braintree/UI (= 4.36.1)
+  - Braintree/Card (4.36.1):
+    - Braintree/Core
+  - Braintree/Core (4.36.1)
+  - Braintree/PayPal (4.36.1):
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPalDataCollector (4.36.1):
+    - Braintree/Core
+    - Braintree/PayPalUtils
+  - Braintree/PayPalOneTouch (4.36.1):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+    - Braintree/PayPalUtils
+  - Braintree/PayPalUtils (4.36.1)
+  - Braintree/UI (4.36.1):
+    - Braintree/Card
+    - Braintree/Core
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PusherSwift (9.0.0):
+    - ReachabilitySwift (~> 5.0)
+  - PushNotifications (3.0.4)
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - Braintree
+  - PayPal-iOS-SDK/Core
+  - PusherSwift
+  - PushNotifications
+
+SPEC REPOS:
+  trunk:
+    - Braintree
+    - PayPal-iOS-SDK
+    - PusherSwift
+    - PushNotifications
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Braintree: f7e0e9a5030e22b8ad77e617f27ac9327d7bc004
+  PayPal-iOS-SDK: 70d56697aef502c130b9840e31dea5c6b8a350e1
+  PusherSwift: e96cb309780695bdfe93de54f610ba40beae97aa
+  PushNotifications: 6e3d148e5e129af9d4a9279b288c934f9a7f9066
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: 60d4c5cd8b5d1b09040d04e5a79502a7defde3a7
+
+COCOAPODS: 1.9.3
